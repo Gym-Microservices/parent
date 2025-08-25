@@ -20,16 +20,6 @@
     <description>Parent POM for Gym Microservices Architecture</description>
     <packaging>pom</packaging>
 
-    <!-- Modules -->
-    <modules>
-        <module>../class-microservice</module>
-        <module>../coach-microservice</module>
-        <module>../equipament-microservice</module>
-        <module>../member-microservice</module>
-        <module>../eureka-server</module>
-        <module>../gateway</module>
-    </modules>
-
     <!-- Build Properties -->
     <properties>
         <java.version>17</java.version>
